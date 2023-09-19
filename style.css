@@ -1,6 +1,6 @@
 body{
     background-color: #ffffff;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0px;
 }
 
@@ -18,6 +18,8 @@ h2{
 footer{
     font-size: 9px;
     color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    line-height: 15px;
 }
 
 .reset{
@@ -30,33 +32,38 @@ footer{
     background-color: #FFFFFF;
     border-radius: 4px;
     border: 0px;
-    font-size: 0px;
+    font-size: 10px;
+    font-family: 'Inter', sans-serif;
 }
 
 #firstButton{
     float: left;
     margin: 11px 0px 0px 16px;
+    color: #747373
 }
 
 #secondButton{
     float: left;
     margin: 11px 0px 0px 90px;
+    color: #747373
 }
 
 #thirdButton{
     float: left;
     margin: 11px 0px 0px 90px;
+    background-color: #FF0048;
+    color: #ffffff;
 }
 
 #firstArticle{
-    width: 310px;
+    width: 300px;
     float: left;
     margin: 0px 0px 0px 16px;
 }
 
 #hamsterAd{
     float: left;
-    margin: 20px 0px 0px 17px;
+    margin: 15px 0px 0px 27px;
 }
 
 .whiteBox{
@@ -85,9 +92,11 @@ footer{
 #twinButtons{
     margin: 0px 0px 11px 120px;
     background-color: #FF0048;
+    color: #ffffff;
     border-radius: 4px;
     border: 0px;
-    font-size: 0px;
+    font-size: 10px;
+    font-family: 'Inter', sans-serif;
 }
 
 #blueBanner{
